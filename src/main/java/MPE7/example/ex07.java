@@ -3,7 +3,7 @@ package MPE7.example;
 import java.util.Scanner;
 
 /*
- *  UCF COP3330 Summer 2021 Assignment 2 Solution
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
  *  Copyright 2021 Derek Gilberti
  */
 
