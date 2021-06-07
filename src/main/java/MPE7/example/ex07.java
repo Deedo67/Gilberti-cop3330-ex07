@@ -26,10 +26,10 @@ public class ex07 {
 
         //math
         int area = intlength * intwidth;
-        int meter = area * 2 * 0.0929034 / 2;
+        double meter = area * 2 * 0.0929034 / 2;
 
         //Output string
-        String outputString = "The area is\n"+area+" square feet\n"+meter+" square meters";
+        String outputString = "The area is\n"+area+" square feet\n"+String.format("%.3f", meter)+" square meters";
 
         //Output
         System.out.println(outputString);
